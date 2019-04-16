@@ -1,16 +1,20 @@
-# 互联网 Java 工程师进阶知识完全扫盲
+# 互联网 Java 工程师[进阶](https://doocs.gitee.io/advanced-java/#/advanced)知识完全扫盲
 [![license](https://badgen.net/badge/license/Attribution-ShareAlike%204.0%20International/green)](https://github.com/doocs/advanced-java/blob/master/LICENSE)
 [![original](https://badgen.net/badge/original/%E4%B8%AD%E5%8D%8E%E7%9F%B3%E6%9D%89/orange)](https://github.com/doocs/advanced-java)
 [![open-source-organization](https://badgen.net/badge/organization/join%20us/pink)](https://github.com/doocs/intro)
+[![reading](https://badgen.net/badge/books/read%20together/cyan)](https://github.com/doocs/technical-books)
+[![leetcode](https://badgen.net/badge/leetcode/coding%20together/cyan)](https://github.com/doocs/leetcode)
+[![sharing](https://badgen.net/badge/readers/share%20together/cyan)](https://github.com/doocs/advanced-java/blob/master/docs/from-readers/README.md)
 [![stars](https://badgen.net/github/stars/doocs/advanced-java)](https://github.com/doocs/advanced-java/stargazers)
 [![forks](https://badgen.net/github/forks/doocs/advanced-java)](https://github.com/doocs/advanced-java/network/members)
+[![contributors](https://badgen.net/github/contributors/doocs/advanced-java)](https://github.com/doocs/advanced-java/tree/master/docs/from-readers#contributors)
 [![help-wanted](https://badgen.net/github/label-issues/doocs/advanced-java/help%20wanted/open)](https://github.com/doocs/advanced-java/labels/help%20wanted)
 [![issues](https://badgen.net/github/open-issues/doocs/advanced-java)](https://github.com/doocs/advanced-java/issues)
 [![PRs Welcome](https://badgen.net/badge/PRs/welcome/green)](http://makeapullrequest.com)
 
-本系列知识出自中华石杉，内容涵盖[高并发](#高并发架构)、[分布式](#分布式系统)、[高可用](#高可用架构)、[微服务](#微服务架构)等领域知识。我对这部分知识做了一个[系统的整理](https://github.com/doocs/advanced-java/issues/1)，方便学习查阅。配合《大型网站技术架构——李智慧》、《Redis 设计与实现——黄健宏》食用，[效果更佳](https://doocs.github.io/advanced-java/#/offer)。
+本系列知识出自中华石杉，内容涵盖[高并发](#高并发架构)、[分布式](#分布式系统)、[高可用](#高可用架构)、[微服务](#微服务架构)等领域知识。我对这部分知识做了一个系统的整理，方便学习查阅。配合《[大型网站技术架构](https://github.com/doocs/technical-books#architecture)——李智慧》、《[Redis 设计与实现](https://github.com/doocs/technical-books#database)——[黄健宏](https://github.com/huangz1990)》食用，[效果更佳](https://doocs.gitee.io/advanced-java/#/offer)。
 
-学习之前，先来看看 [Issues 讨论区](https://github.com/doocs/advanced-java/issues/9#issue-394275038)的技术面试官是怎么说的吧。本项目也欢迎所有面试官和面试者都来分享自己的一些想法。
+学习之前，先来看看 [Issues 讨论区](https://github.com/doocs/advanced-java/issues/9#issue-394275038)的技术面试官是怎么说的吧。本项目也欢迎各位开发者朋友来[分享自己的一些想法和实践经验](/docs/from-readers/README.md)。
 
 ## 高并发架构
 ### [消息队列](/docs/high-concurrency/mq-interview.md)
@@ -105,7 +109,7 @@
 - 如何进行降级？
 
 ## 微服务架构
-- [微服务架构整个章节内容属额外新增，会陆续补充完善]()
+- [微服务架构整个章节内容属额外新增，后续抽空更新，也欢迎读者们参与补充完善](https://github.com/doocs/advanced-java)
 - [关于微服务架构的描述](/docs/micro-services/microservices-introduction.md)
 
 ### Spring Cloud 微服务架构
